@@ -7,7 +7,7 @@
 }
 .banner_contents {
   margin-left: 30px;
-  padding-top: 300px;
+  padding-top: 150px;
   height: 190px;
 }
 .banner_title {
@@ -25,34 +25,34 @@
 }
 
 .banner_button {
-    cursor: pointer;
-    color: #fff;
-    outline: none;
-    border: none;
-    font-size: 1.2rem;
-    font-weight: 700;
-    border-radius: 0.2vw;
-    padding: 1rem 3rem;
-    margin-right: 2rem;
-    background-color: rgba(51,51,51,0.5);
+  cursor: pointer;
+  color: #fff;
+  outline: none;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: 700;
+  border-radius: 0.2vw;
+  padding: 1rem 3rem;
+  margin-right: 2rem;
+  background-color: rgba(51, 51, 51, 0.5);
 }
 .play {
-    color: #000;
-    background-color: #fff;
+  color: #000;
+  background-color: #fff;
 }
 
 .banner_button:hover {
-    color: #000;
-    background-color: #c6c6cc;
-    transition: all 0.2s;
+  color: #000;
+  background-color: #c6c6cc;
+  transition: all 0.2s;
 }
 
 .banner_fadeBottom {
-    height: 50vh;
-    background-image: linear-gradient(
-        180deg,
-        transparent,
-        rgb(37,37,37,0.91),
-        #111
-    );
+  height: 50vh;
+  background-image: linear-gradient(
+    180deg,
+    transparent,
+    rgb(37, 37, 37, 0.91),
+    #111
+  );
 }
