@@ -12,10 +12,6 @@
   z-index: 1;
 }
 
-.nav_black {
-  background-color: rgb(20, 20, 20);
-}
-
 .header_container {
   width: 90%;
   display: flex;
